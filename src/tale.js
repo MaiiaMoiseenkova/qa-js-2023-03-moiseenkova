@@ -1,4 +1,5 @@
 // Задание 1:
+
 console.log(kolobok("дедушка"))
 console.log(kolobok("заяц"))
 console.log(kolobok("лиса"))
@@ -17,6 +18,7 @@ function kolobok(personage) {
   }
 
 // Задание 2:
+
 console.log(newYear("Дед Мороз"))
 console.log(newYear("Снегурочка"))
 
